@@ -25,3 +25,4 @@ replay_pid*
 # private and public keys
 *.key
 *.pem
+sendgrid.env
