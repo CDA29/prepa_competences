@@ -7,6 +7,7 @@
 - `package-lock.json`: Lock file for npm dependencies.
 - `start.sh`: Shell script to start the project.
 
+
 ## Forme Directory (Backend)
 - `Dockerfile`: Dockerfile for the backend.
 - `compose.prod.yaml`: Docker Compose configuration for production.
