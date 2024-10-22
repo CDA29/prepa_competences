@@ -1,6 +1,7 @@
 [submodule "form-front"]
 	path = form-front
 	url = https://github.com/Aissam-salman/form-front.git
+	branch = main
 [submodule "Forme"]
 	path = Forme
 	url = https://github.com/Aissam-salman/Forme.git
