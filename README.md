@@ -1,4 +1,4 @@
-# Projet Prépa Compétences
+# Project *Prépa Compétences*
 
 ## Project Structure
 
